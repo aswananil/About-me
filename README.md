@@ -13,8 +13,8 @@
 **Software & Simulation**: IPG CarMaker, MATLAB/Simulink, LabVIEW  
 **Programming**: C++, Python, Embedded C  
 **AI & CV**: OpenCV, YOLOv8, TensorFlow, DroneVision  
-**IoT & Cloud**: Firebase, MQTT, LoRa, Solar IoT Nodes  
-**Tools**: Git, VS Code, Fusion 360, KiCad, Eagle, Arduino IDE
+**IoT & Cloud**: Firebase, LoRa, Solar IoT Nodes  
+**Tools**: Git, VS Code, Fusion 360, Arduino IDE
 
 ---
 
