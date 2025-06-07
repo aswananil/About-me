@@ -50,7 +50,8 @@
 ### 🐄 Smart Livestock Health & Farm Monitoring
 > IoT + AI for disease & pest detection in farms
 
-- 🔋 Power-optimized wearable + solar IoT robot  
+- 🔋 Power-optimized wearable + solar IoT robot
+- 📚 currently working on the reserch about the system 
 - 🌿 Sensors: Temp, NH₃, CO₂, Soil Moisture, Air Quality  
 - 📡 SMS + App alert system for remote farmers  
 
